@@ -5,7 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "RobotoMono Nerd Font:pixelsize=14:antialias=true:autohint=true";
+/* static char *font = "RobotoMono Nerd Font:pixelsize=12:antialias=true:autohint=true"; */
+static char *font = "Gohufont Nerd Font Mono:pixelsize=12:antialias=false:autohint=true";
 static int borderpx = 5;
 
 /*
@@ -42,7 +43,7 @@ static unsigned int tripleclicktimeout = 600;
 int allowaltscreen = 1;
 
 /* frames per second st should at maximum draw to the screen */
-static unsigned int xfps = 120;
+static unsigned int xfps = 60;
 static unsigned int actionfps = 30;
 
 /*
