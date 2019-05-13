@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 /* static char *font = "RobotoMono Nerd Font:pixelsize=12:antialias=true:autohint=true"; */
-static char *font = "Gohufont Nerd Font Mono:pixelsize=12:antialias=false:autohint=true";
+static char *font = "GohuFont:style=Regular:pixelsize=14:antialias=false:autohint=true";
 static int borderpx = 5;
 
 /*
